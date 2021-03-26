@@ -1,1 +1,3 @@
 # Image-size-reduction
+Principal Component Analysis, or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+The projects is aimed at reducing the size of the image using Principal Component Analysis wherein we calculate the covariance between the different attributes and the attributes haing high covariance which containmost of the important data about the image are kept and rest can be discarded to reduce the size of the image.
